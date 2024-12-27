@@ -16,4 +16,4 @@ Este repositorio **no contiene ningún código fuente** de la plataforma BytesDe
 - No está permitido descargar, copiar, redistribuir ni modificar los archivos almacenados aquí.
 - El acceso y uso del contenido está restringido a los propósitos definidos por BytesDex.
 
-**Copyright © 2024 BytesDex. Todos los derechos reservados.**
+**Copyright © 2024 BytesDex, Tec. Todos los derechos reservados.**
